@@ -10,7 +10,7 @@ tl.to("#page1,#page2,#page3,#page4,#page5,#page6",{
     duration:0,
 })
 tl.to("#page1,#page2,#page3,#page4,#page5,#page6",{
-    y:"20vh",
+    y:"0vh",
     duration:1,
     delay:1,
 })
