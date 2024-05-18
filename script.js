@@ -11,12 +11,12 @@ tl.to("#page1",{
 })
 tl.to("#page1",{
     y:"-30vh",
-    duration:2,
+    duration:1,
     delay:1,
 })
 tl.to("#page1",{
     y:"0vh",
     rotate:-360,
     scale:1,
-    duration:2.5, 
+    duration:2, 
 });
